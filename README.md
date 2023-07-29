@@ -3,7 +3,7 @@
 [CDS](https://cds.climate.copernicus.eu/cdsapp#!/home) Provides Weather data for entire world from 1940 to present (today - 6 days) for free. 
 A simple example app for using ClimateDataStoreConnection in Streamlit.
 
-## Demo
+## Demo (Live)[https://cds-api-connection.streamlit.app/]
 <img src="demo_app.gif" alt="demo" style="margin-top:50px"></img>
 
 ## Setup
