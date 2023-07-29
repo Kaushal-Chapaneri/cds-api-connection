@@ -22,6 +22,11 @@ pip install -r requirements.txt
 
 - Create an account to get API Key [Register](https://cds.climate.copernicus.eu/user/register).
 - Follow instructions to Store CDS API key [Linux](https://cds.climate.copernicus.eu/api-how-to#install-the-cds-api-client), [Windows](https://confluence.ecmwf.int/display/CKB/How+to+install+and+use+CDS+API+on+Windows), [macOS](https://confluence.ecmwf.int/display/CKB/How+to+install+and+use+CDS+API+on+macOS)
+- Or set API Key in Environment variables
+  ```
+  CDSAPI_URL = "https://cds.climate.copernicus.eu/api/v2"
+  CDSAPI_KEY = "<api-key>"
+  ```
 
 ### Run the app
 
