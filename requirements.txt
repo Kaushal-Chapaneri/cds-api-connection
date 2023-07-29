@@ -5,3 +5,4 @@ plotly==5.15.0
 streamlit==1.25.0
 streamlit_folium==0.13.0
 xarray==2023.7.0
+scipy
